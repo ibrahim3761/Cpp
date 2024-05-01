@@ -1,0 +1,11 @@
+debug/Bullet.o
+debug/Enemy.o
+debug/Game.o
+debug/Health.o
+debug/Player.o
+debug/Score.o
+debug/main.o
+debug/qrc_res.o
+debug/moc_Bullet.o
+debug/moc_Enemy.o
+debug/moc_Player.o
